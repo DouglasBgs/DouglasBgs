@@ -20,13 +20,13 @@
 
 <br />
 
-Olá, sou Douglas Borges!, Atualmente trabalho como Front-end Developer  na  [Acrux Tecnlogias!](http://acruxtecnologias.com.br/);
+Olá, sou o Douglas Borges!, Atualmente trabalho como Front-end Developer  na  [Acrux Tecnlogias!](http://acruxtecnologias.com.br/);
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Sobre mim:**
 
-- 👨🏽‍💻 Atualmente estou trabalhando em algo legal 🤫;
+- 👨🏽‍💻 Trabalhando em algo legal 🤫;
 - 🌱 No momento, gostaria de aprender NextJs;
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 - 📫 Como entrar em contato comigo: [📧](mailto:borgesdoga@gmail.com);
@@ -47,6 +47,6 @@ Olá, sou Douglas Borges!, Atualmente trabalho como Front-end Developer  na  [Ac
 
 📈 Minhas Estatísticas no GitHub
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Borges&theme=react&custom_title=Estatísticas+da+semana" alt="DouglasBgs" /> 
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=logindoga&theme=react&custom_title=Estatísticas+da+semana" alt="DouglasBgs" /> 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=DouglasBgs&show_icons=true&theme=react&custom_title=Minhas+estatísticas+no+GitHub&count_private=true&include_all_commits=true&locale=pt-br" alt="DouglasBgs" />
   
