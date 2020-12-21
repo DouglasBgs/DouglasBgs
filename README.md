@@ -47,6 +47,6 @@ Olá, sou Douglas Borges!, Atualmente trabalho como Front-end Developer  em  [Ac
 
 📈 Minhas Estátisticas no GitHub
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Borges&theme=gotham&custom_title=Estatísticas+do+mês" alt="DouglasBgs" /> 
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Borges&theme=gotham&custom_title=Estatísticas+da+semana" alt="DouglasBgs" /> 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=DouglasBgs&show_icons=true&theme=gotham&custom_title=Minhas+estatísticas+no+GitHub&count_private=true&include_all_commits=true&locale=pt-br" alt="DouglasBgs" />
   
