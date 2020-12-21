@@ -45,10 +45,10 @@ Olá, sou o Douglas Borges!, Atualmente trabalho como Front-end Developer  na  [
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasBgs&show_icons=true&theme=react&custom_title=Linguagens+mais+Utilizadas&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 
-📈 Minhas Estatísticas no GitHub
+**📈 Minhas Estatísticas no GitHub**
 
-<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=logindoga&theme=react&custom_title=Estatísticas+da+semana" alt="DouglasBgs" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DouglasBgs&show_icons=true&theme=react&custom_title=Minhas+estatísticas+no+GitHub&count_private=true&include_all_commits=true&locale=pt-br" alt="DouglasBgs" />
+<p align="left"><img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=logindoga&theme=react&custom_title=Estatísticas+da+semana" alt="DouglasBgs" /> 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DouglasBgs&show_icons=true&theme=react&custom_title=Minhas+estatísticas+no+GitHub&count_private=true&include_all_commits=true&locale=pt-br" alt="DouglasBgs" />
   
- <img width="50%" align="right" src="https://i.pinimg.com/originals/57/38/a9/5738a9c1e37b206e0d5e30605bfff53d.gif" />
+
   
