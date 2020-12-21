@@ -16,23 +16,23 @@
 </a>
 </p>
 
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=DouglasBgs.DouglasBgs)
+![Visitantes](https://visitor-badge.glitch.me/badge?page_id=DouglasBgs.DouglasBgs&language=pt-br)
 
 <br />
 
-Olá, sou Douglas Borges!, Atualmente trabalho como Front-end Developer  em  [Acrux Tecnlogias!](http://acruxtecnologias.com.br/);
+Olá, sou o Douglas Borges!, Atualmente trabalho como Front-end Developer  na  [Acrux Tecnlogias!](http://acruxtecnologias.com.br/);
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Sobre mim:**
 
-- 👨🏽‍💻 Atualmente estou trabalhando em algo legal;
-- 🌱 No momento, estou aprendendo NextJs;
+- 👨🏽‍💻 Trabalhando em algo legal 🤫;
+- 🌱 No momento, gostaria de aprender NextJs;
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 - 📫 Como entrar em contato comigo: [📧](mailto:borgesdoga@gmail.com);
 - 📝[Currículo](https://docs.google.com/document/d/1iJZxSBHrAndBbV0nIQELpGUGbf0JDoMJ6CYkxHnkDM0/edit?usp=sharing)
 
-**Linguagens e Ferramentas:**  
+**🛠 Linguagens e Ferramentas:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/DouglasBgs/DouglasBgs/main/assets/javascript.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/DouglasBgs/DouglasBgs/main/assets/node-js.svg"></code>
@@ -42,11 +42,11 @@ Olá, sou Douglas Borges!, Atualmente trabalho como Front-end Developer  em  [Ac
 <code><img height="20" src="https://raw.githubusercontent.com/DouglasBgs/DouglasBgs/main/assets/git.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/DouglasBgs/DouglasBgs/main/assets/bootstrap.svg"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasBgs&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasBgs&show_icons=true&theme=react&custom_title=Linguagens+mais+Utilizadas&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 
-📈 Minhas Estátiscas no GitHub
+📈 Minhas Estatísticas no GitHub
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Borges&theme=gotham" alt="DouglasBgs" /> 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=DouglasBgs&show_icons=true&theme=gotham" alt="DouglasBgs" />
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=logindoga&theme=react&custom_title=Estatísticas+da+semana" alt="DouglasBgs" /> 
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=DouglasBgs&show_icons=true&theme=react&custom_title=Minhas+estatísticas+no+GitHub&count_private=true&include_all_commits=true&locale=pt-br" alt="DouglasBgs" />
   
