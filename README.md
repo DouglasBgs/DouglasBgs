@@ -22,7 +22,7 @@
 
 Olá, sou o Douglas Borges!, Atualmente trabalho como Front-end Developer  na  [Acrux Tecnlogias!](http://acruxtecnologias.com.br/);
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/DouglasBgs/DouglasBgs/blob/main/assets/code.gif?raw=true" width="500" height="320" />
   
 **Sobre mim:**
 
