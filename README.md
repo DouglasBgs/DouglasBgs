@@ -20,14 +20,14 @@
 
 <br />
 
-Olá, sou Douglas Borges!, Atualmente trabalho como Front-end Developer  em  [Acrux Tecnlogias!](http://acruxtecnologias.com.br/);
+Olá, sou Douglas Borges!, Atualmente trabalho como Front-end Developer  na  [Acrux Tecnlogias!](http://acruxtecnologias.com.br/);
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Sobre mim:**
 
-- 👨🏽‍💻 Atualmente estou trabalhando em algo legal;
-- 🌱 No momento, estou aprendendo NextJs;
+- 👨🏽‍💻 Atualmente estou trabalhando em algo legal 🤫;
+- 🌱 No momento, gostaria de aprender NextJs;
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 - 📫 Como entrar em contato comigo: [📧](mailto:borgesdoga@gmail.com);
 - 📝[Currículo](https://docs.google.com/document/d/1iJZxSBHrAndBbV0nIQELpGUGbf0JDoMJ6CYkxHnkDM0/edit?usp=sharing)
