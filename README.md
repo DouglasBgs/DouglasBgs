@@ -16,7 +16,7 @@
 </a>
 </p>
 
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=DouglasBgs.DouglasBgs)
+![Visitantes](https://visitor-badge.glitch.me/badge?page_id=DouglasBgs.DouglasBgs&language=pt-br)
 
 <br />
 
@@ -42,11 +42,11 @@ Olá, sou Douglas Borges!, Atualmente trabalho como Front-end Developer  na  [Ac
 <code><img height="20" src="https://raw.githubusercontent.com/DouglasBgs/DouglasBgs/main/assets/git.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/DouglasBgs/DouglasBgs/main/assets/bootstrap.svg"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasBgs&show_icons=true&theme=gotham&custom_title=Linguagens+mais+Utilizadas&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasBgs&show_icons=true&theme=react&custom_title=Linguagens+mais+Utilizadas&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 
-📈 Minhas Estátisticas no GitHub
+📈 Minhas Estatísticas no GitHub
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Borges&theme=gotham&custom_title=Estatísticas+da+semana" alt="DouglasBgs" /> 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=DouglasBgs&show_icons=true&theme=gotham&custom_title=Minhas+estatísticas+no+GitHub&count_private=true&include_all_commits=true&locale=pt-br" alt="DouglasBgs" />
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Borges&theme=react&custom_title=Estatísticas+da+semana" alt="DouglasBgs" /> 
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=DouglasBgs&show_icons=true&theme=react&custom_title=Minhas+estatísticas+no+GitHub&count_private=true&include_all_commits=true&locale=pt-br" alt="DouglasBgs" />
   
