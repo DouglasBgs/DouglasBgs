@@ -20,13 +20,13 @@
 
 <br />
 
-Olá, sou o Douglas Borges!, Atualmente trabalho como Front-end Developer  na  [Acrux Tecnlogias!](http://acruxtecnologias.com.br/);
+Olá, sou o Douglas Borges!, Atualmente trabalho como Técnico de Desenvolvimento de Software  na  [TOTVS!](http://totvs.com.br/);
 
   <img align="right" alt="GIF" src="https://github.com/DouglasBgs/DouglasBgs/blob/main/assets/code.gif?raw=true" width="500" height="320" />
   
 **Sobre mim:**
 
-- 👨🏽‍💻 Trabalhando em algo legal 🤫;
+- 👨🏽‍💻 Trabalhando em 4GL (Sistema Logix);
 - 🌱 No momento, gostaria de aprender NextJs;
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 - 📫 Como entrar em contato comigo: [📧](mailto:borgesdoga@gmail.com);
