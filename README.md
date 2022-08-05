@@ -20,7 +20,7 @@
 
 <br />
 
-Olá, sou o Douglas Borges!, Atualmente trabalho como Técnico de Desenvolvimento de Software  na  [TOTVS!](http://totvs.com.br/);
+Olá, sou o Douglas Borges!, Atualmente trabalho como Analista de Desenvolvimento de Software  na  [TOTVS!](http://totvs.com.br/);
 
   <img align="right" alt="GIF" src="https://github.com/DouglasBgs/DouglasBgs/blob/main/assets/code.gif?raw=true" width="500" height="320" />
   
