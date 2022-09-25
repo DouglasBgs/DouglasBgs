@@ -26,8 +26,8 @@ Olá, sou o Douglas Borges!, Atualmente trabalho como Analista de Desenvolviment
   
 **Sobre mim:**
 
-- 👨🏽‍💻 Trabalhando em 4GL (Sistema Logix);
-- 🌱 No momento estou aprendendo Angular;
+- 👨🏽‍💻 Trabalhando com inovação 🚀 em Angular (Sistema Datasul);
+- 🌱 Em aprendizado continuo;
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 - 📫 Como entrar em contato comigo: [📧](mailto:borgesdoga@gmail.com);
 - 📝[Currículo](https://docs.google.com/document/d/1iJZxSBHrAndBbV0nIQELpGUGbf0JDoMJ6CYkxHnkDM0/edit?usp=sharing)
