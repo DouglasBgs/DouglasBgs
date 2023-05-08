@@ -1,6 +1,5 @@
 ### Olá, Eu sou o Douglas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img height="20" src="https://acegif.com/wp-content/uploads/2020/04/brazilian-flag-m.gif">
 <p align="left">
-<a href="https://www.facebook.com/talvez.douglas"><img alt="Facebook" title="Facebook" height="22" width="22" src="https://raw.githubusercontent.com/DouglasBgs/DouglasBgs/main/assets/facebook.svg"></a>
 
 <a href="https://www.linkedin.com/in/douglas-borges-941a8217b/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/DouglasBgs/DouglasBgs/main/assets/linkedin.svg" />
@@ -15,6 +14,8 @@
   <img align="left" alt="Whatsapp" width="22px" src="https://raw.githubusercontent.com/DouglasBgs/DouglasBgs/main/assets/whatsapp.svg" />
 </a>
 </p>
+<br />
+<br />
 
 ![Visitantes](https://visitor-badge.glitch.me/badge?page_id=DouglasBgs.DouglasBgs&language=pt-br)
 
