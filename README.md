@@ -48,8 +48,7 @@ Olá, sou o Douglas Borges! Atualmente trabalho como Analista de Desenvolvimento
 
 **📈 Minhas Estatísticas no GitHub**
 
-<p align="left"><img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=logindoga&theme=react&custom_title=Estatísticas+da+semana" alt="DouglasBgs" /> 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DouglasBgs&show_icons=true&theme=react&custom_title=Minhas+estatísticas+no+GitHub&count_private=true&include_all_commits=true&locale=pt-br" alt="DouglasBgs" />
+![Stats](./profile/stats.svg)
   
 
   
