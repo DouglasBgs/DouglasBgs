@@ -17,8 +17,6 @@
 <br />
 <br />
 
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=DouglasBgs.DouglasBgs&language=pt-br)
-
 <br />
 
 Olá, sou o Douglas Borges! Atualmente trabalho como Analista de Desenvolvimento de Software  na  [TOTVS!](http://totvs.com.br/);
@@ -43,7 +41,7 @@ Olá, sou o Douglas Borges! Atualmente trabalho como Analista de Desenvolvimento
 <code><img height="20" src="https://raw.githubusercontent.com/DouglasBgs/DouglasBgs/main/assets/git.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/DouglasBgs/DouglasBgs/main/assets/bootstrap.svg"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasBgs&show_icons=true&theme=react&custom_title=Linguagens+mais+Utilizadas&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](./profile/top-langs.svg)
 
 
 **📈 Minhas Estatísticas no GitHub**
